@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LoveTest</string>
+    <string name="main_title">Let\'s find out\n your love type!</string>
+    <string name="question">
+        There were favorite flowers\n
+        in the flower base.\n
+        As time goes, the flowers\n
+        have all withered\n
+        What are you going to do with that?\n
+    </string>
+    <string name="may_be_you_give_up_on_love_too_easily">May be you give up on love too easily...</string>
+    <string name="you_are_a_quitter">You are a Quitter!</string>
+    <string name="_1_throw_it_away">1. Throw it Away.</string>
+    <string name="_2_water_the_flowers">2. Water the Flowers.</string>
+    <string name="_3_cut_it_off_with_sissors">3. Cut it off with Sissors.</string>
+    <string name="_4_make_them_as_dired_flower">4. Make them as dired Flower.</string>
+</resources>
